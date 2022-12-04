@@ -1,5 +1,7 @@
+[![Junzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye-junzhe&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Ye Junzhe
-- 👀 I’m interested in computer graphics, game development
+- 👀 I’m interested in computer graphics💻, game development🎮
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me..
