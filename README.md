@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ye-junzhe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ye Junzhe
+- 👀 I’m interested in computer graphics, game development
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on all kinds of projects
+- 📫 How to reach me..
 
 <!---
 ye-junzhe/ye-junzhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
