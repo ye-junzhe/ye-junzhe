@@ -1,7 +1,5 @@
 [![Junzhe's GitHub stats](https://github-readme-stats-ye-junzhe.vercel.app/api?username=ye-junzhe&count_private=true&show_icons=true&theme=radical&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-ye-junzhe.vercel.app/api/top-langs/?username=ye-junzhe&hide=javascript,css,html,makefile,shell&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hi, I’m Ye Junzhe
 - 👀 I’m interested in low level progamming, penetration testing🗡️, game development🎮, deep learning
 - 🌱 I’m currently learning game engines, and also looking forward to learning about deep learning frameworks and embedded systems
