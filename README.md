@@ -1,4 +1,4 @@
-[![Junzhe's GitHub stats](https://github-readme-stats-ye-junzhe.vercel.app/api?username=ye-junzhe&count_private=true&show_icons=true&theme=radical&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Junzhe's GitHub stats](https://github-readme-stats-ctme-git-master-yejunzhes-projects.vercel.app/api?username=ye-junzhe&count_private=true&show_icons=true&theme=radical&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Ye Junzhe
 - 👀 I’m interested in low level progamming, penetration testing🗡️, game development🎮, deep learning
@@ -14,5 +14,5 @@
 </a>
 
 ### My Neovim Config here
-[![BetterNvim Repo](https://github-readme-stats-ye-junzhe.vercel.app/api/pin/?username=ye-junzhe&repo=BetterNvim&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/ye-junzhe/BetterNvim)
+[![BetterNvim Repo](https://github-readme-stats-ctme-git-master-yejunzhes-projects.vercel.app/api/pin/?username=ye-junzhe&repo=BetterNvim&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/ye-junzhe/BetterNvim)
                                                                                  
